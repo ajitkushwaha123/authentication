@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&family=Young+Serif&display=swap'); */
+
+
+body
+{
+  background-color:  #FFB1B1;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
